@@ -219,7 +219,7 @@ export default function App() {
 
   // URL ของ Spotify Playlist (Lofi Beats)
   // แก้ไข: ต้องใช้ /embed/ format
-  const spotifyPlaylistUrl = "https://open.spotify.com/embed/playlist/4Zjli1P13J5mmSCD5iKAXK?utm_source=generator&theme=0";
+  const spotifyPlaylistUrl = "https://open.spotify.com/embed/playlist/37i9dQZF1DZ06evO1tyMni?utm_source=generator&theme=0";
 
 
   return (
